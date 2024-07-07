@@ -10,7 +10,7 @@ KEY QUESTIONS:
 * How could these trends apply to Bellabeat customers?
 * How could these trends help influence Bellabeat marketing strategy?
 
-SHARE SUMMARY OF THE IMPORTANT FINDINGS FROM ABOVE ANALYSIS:
+SHARE SUMMARY OF THE IMPORTANT FINDINGS FROM THE ANALYSIS:
 
 * We can see that the Average of Total Steps Count is 7600(approx) which is little lower than the average daily steps count preferred by WHO i.e 8000 
 
